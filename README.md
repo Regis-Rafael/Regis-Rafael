@@ -41,8 +41,8 @@
 
 | Projetos | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📱 SAL](https://github.com/Regis-Rafael/SAL) | Um app mobile com check-ins, perfis e grupos | React Native, AsyncStorage, React Navigation |
-| [🌐 Portfólio](https://regis-rafael.github.io/Portfolio/) | Meu portfólio pessoal com projetos e contato | Next.js, Tailwind CSS, Framer Motion |
+| [📱 SAL](https://github.com/Regis-Rafael/SAL) | Um rede social mobile para estudos em grupos | React Native, SecureStore, Stack/Drawer/Tabs |
+| [🌐 Portfólio](https://regis-rafael.github.io/Portfolio/) | Meu portfólio pessoal com projetos e contato | HTML/CSS/JavaScript, Tailwind CSS|  |
 
 ---
 
