@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&reversal=false&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
 </p>
 
 <h1 align="center">Olá, eu sou Rafael Régis 👋</h1>
@@ -23,7 +23,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,figma,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,tailwind,figma,vscode,git" />
 </div>
 
 ---
@@ -37,17 +37,9 @@
 
 ---
 
-## 🐍 Snake Contributions
-
-<div align="center">
-  <img src="https://github.com/Regis-Rafael/Regis-Rafael/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ## 💼 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
+| Projetos | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📱 SAL](https://github.com/Regis-Rafael/SAL) | Um app mobile com check-ins, perfis e grupos | React Native, AsyncStorage, React Navigation |
 | [🌐 Portfólio](https://seusite.com) | Meu portfólio pessoal com projetos e contato | Next.js, Tailwind CSS, Framer Motion |
@@ -63,5 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&reversal=true&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
