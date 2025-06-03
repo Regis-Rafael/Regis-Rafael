@@ -42,7 +42,7 @@
 | Projetos | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [📱 SAL](https://github.com/Regis-Rafael/SAL) | Um app mobile com check-ins, perfis e grupos | React Native, AsyncStorage, React Navigation |
-| [🌐 Portfólio](https://seusite.com) | Meu portfólio pessoal com projetos e contato | Next.js, Tailwind CSS, Framer Motion |
+| [🌐 Portfólio](https://regis-rafael.github.io/Portfolio/) | Meu portfólio pessoal com projetos e contato | Next.js, Tailwind CSS, Framer Motion |
 
 ---
 
@@ -50,7 +50,7 @@
 
 - 📬 Email: [rafaelregis2004@gmail.com](mailto:rafaelregis2004@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rafael-regis](https://www.linkedin.com/in/rafael-regis/)
-- 🖼️ Portfólio: [https://seusite.com](https://seusite.com)
+- 🖼️ Portfólio: [Portfólio](https://regis-rafael.github.io/Portfolio/)
 
 ---
 
