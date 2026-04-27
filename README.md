@@ -43,7 +43,7 @@
 |--------|-|-----------|-------------|
 | [📱 SAL](https://play.google.com/store/apps/details?id=com.regisrafael.Stay_and_Learn) |[Link](https://github.com/natorjunior/pi-v_equipe2)| Um rede social mobile para estudos em grupos | React Native, Expo, Eas.cli |
 | [📱 LICKSHOP](https://github.com/jorgelucas-rm/lick-shop) |[Link](https://github.com/jorgelucas-rm/lick-shop)| Um E-Commerce de SexShop | Vue.js, Vue.cli, Tailwind CSS  |
-| [🌐 Portfólio](https://regis-rafael.github.io/Portfolio/) |[Link](https://github.com/Regis-Rafael/Regis-Rafael)| Meu portfólio pessoal com projetos e contato | HTML/CSS/JavaScript, Tailwind CSS|
+| [🌐 Portfólio](https://regis-rafael.github.io/Portfolio/) |[Link](https://github.com/Regis-Rafael/Regis-Rafael)| Meu portfólio pessoal com projetos e contato | HTML/CSS/JavaScript|
 
 ---
 
