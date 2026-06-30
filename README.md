@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong><br/>
-  React • React Native • Node.js • PostgreSQL • Tailwind CSS
+  React • React Native • Node.js • Java • PostgreSQL • Tailwind CSS
 </p>
 
 <p align="center">
